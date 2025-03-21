@@ -1,3 +1,4 @@
+<head><meta name="google-site-verification" content="pMgQPdl7Pj3fJpgSJrSmOePOlg1U-dwQsTfPyAiJg74" /></head>
 # Privacy Policy for TicTacToe5ToGo
 
 Last updated: March 16, 2025
